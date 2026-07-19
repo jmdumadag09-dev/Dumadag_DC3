@@ -1,7 +1,8 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import ExamPrac from "./components/ExamPrac.vue";
+
 </script>
 
 <template>
-  <HelloWorld />
+  <ExamPrac/>
 </template>
